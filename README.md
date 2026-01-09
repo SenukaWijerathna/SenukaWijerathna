@@ -8,16 +8,16 @@
 
 ---
 
-<h3>Reach me on:</h3>
+### 📬 Reach me on:
 
 <a href="https://www.linkedin.com/in/senuka-wijerathna">
-    <img src="https://skillicons.dev/icons?i=linkedin" width="30"/>
-    <span style="font-size: 1.3em; font-weight: 600; margin-left: 10px; vertical-align:top;">LinkedIn</span>
+  <img src="https://skillicons.dev/icons?i=linkedin" width="30" align="center" /> 
+  <span style="font-size: 1.2em; font-weight: 600; margin-left: 10px;">LinkedIn</span>
 </a>
-<p style="margin-bottom:1rem;"></p>
-<a href="mailto:senukaw615@gmail.com">
-    <img src="https://skillicons.dev/icons?i=gmail" width="30"/>
-    <span style="font-size: 1.3em; font-weight: 600; margin-left: 10px; vertical-align:top;">senukaw615@gmail.com</span>
+
+<p style="margin-bottom: 8px;"></p> <a href="mailto:senukaw615@gmail.com">
+  <img src="https://skillicons.dev/icons?i=gmail" width="30" align="center" /> 
+  <span style="font-size: 1.2em; font-weight: 600; margin-left: 10px;">senukaw615@gmail.com</span>
 </a>
 
 </br>
