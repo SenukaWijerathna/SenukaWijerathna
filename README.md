@@ -11,12 +11,12 @@
 ### 📬 Reach me on:
 
 <a href="https://www.linkedin.com/in/senuka-wijerathna">
-  <img src="https://skillicons.dev/icons?i=linkedin" width="30" align="center" /> 
+  <img src="https://skillicons.dev/icons?i=linkedin" width="30" align="center" style="padding-right:0.5rem;"/> 
   <span style="font-size: 1.2em; font-weight: 600; margin-left: 10px;">LinkedIn</span>
 </a>
 
 <p style="margin-bottom: 8px;"></p> <a href="mailto:senukaw615@gmail.com">
-  <img src="https://skillicons.dev/icons?i=gmail" width="30" align="center" /> 
+  <img src="https://skillicons.dev/icons?i=gmail" width="30" align="center" style="padding-right:0.5rem;"/> 
   <span style="font-size: 1.2em; font-weight: 600; margin-left: 10px;">senukaw615@gmail.com</span>
 </a>
 
