@@ -25,7 +25,7 @@
 
 ---
 </br>
-<p style="padding-top:px; font-size:2em; font-weight:650;">Technical Toolbox</p>
+<h2 style="font-weight:650;">Technical Toolbox</h2>
 
 <table style="border: none; border-collapse: collapse;">
   <tr style="border: none;">
