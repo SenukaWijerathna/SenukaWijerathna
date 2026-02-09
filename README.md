@@ -48,7 +48,7 @@
     <td style="border: none; font-weight: bold; padding-right: 20px;">Systems</td>
     <td style="border: none;">
       <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=windows,mint&perline=5" />
+        <img src="https://skillicons.dev/icons?i=windows,ubuntu,mint&perline=5" />
       </a>
     </td>
   </tr>
