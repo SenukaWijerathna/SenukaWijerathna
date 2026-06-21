@@ -32,7 +32,7 @@
     <td style="border: none; font-weight: bold; padding-right: 20px;">Languages</td>
     <td style="border: none;">
       <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=cpp,java,python,html,css,js&perline=5" />
+        <img src="https://skillicons.dev/icons?i=cpp,java,python,html,css,js,mongodb&perline=5" />
       </a>
     </td>
   </tr>
@@ -40,7 +40,7 @@
     <td style="border: none; font-weight: bold; padding-right: 20px;">Platforms</td>
     <td style="border: none;">
       <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=vscode,visualstudio,idea,clion,pycharm&perline=5" />
+        <img src="https://skillicons.dev/icons?i=vscode,visualstudio,idea,clion,pycharm,gitlab&perline=5" />
       </a>
     </td>
   </tr>
