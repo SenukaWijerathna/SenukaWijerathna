@@ -27,29 +27,7 @@
 </br>
 <h2 style="font-weight:650;">Technical Toolbox</h2>
 
-<table style="border: none; border-collapse: collapse;">
-  <tr style="border: none;">
-    <td style="border: none; font-weight: bold; padding-right: 20px;">Languages</td>
-    <td style="border: none;">
-      <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=cpp,java,python,html,css,js,mongodb&perline=5" />
-      </a>
-    </td>
-  </tr>
-  <tr style="border: none;">
-    <td style="border: none; font-weight: bold; padding-right: 20px;">Platforms</td>
-    <td style="border: none;">
-      <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=vscode,visualstudio,idea,clion,pycharm,gitlab&perline=5" />
-      </a>
-    </td>
-  </tr>
-  <tr style="border: none;">
-    <td style="border: none; font-weight: bold; padding-right: 20px;">Systems</td>
-    <td style="border: none;">
-      <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=windows,ubuntu,mint&perline=5" />
-      </a>
-    </td>
-  </tr>
-</table>
+
+<a href="https://skillicons.dev">
+<img src="https://skillicons.dev/icons?i=cpp,java,python,html,css,js,mongodb,vscode,visualstudio,idea,clion,pycharm,gitlab&perline=20" />
+</a>
